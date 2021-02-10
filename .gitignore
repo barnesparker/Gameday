@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.csv
+.ipynb_checkpoints/Data Cleaning-checkpoint.ipynb
+Data Cleaning.ipynb
